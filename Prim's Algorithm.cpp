@@ -1,7 +1,6 @@
 #include <iostream>
 #include <climits>
 #define V 5  // Number of vertices in the graph
-
 using namespace std;
 
 // Function to find the vertex with the minimum key value
