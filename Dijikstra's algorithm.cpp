@@ -58,7 +58,6 @@ public:
         }
     }
 };
-
 int main() {
     Graph g(6); // Graph with 6 vertices (0 to 5)
 
